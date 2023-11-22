@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485714757979",
+    "project_id": "dam-u3-tarea-2-19400657",
+    "storage_bucket": "dam-u3-tarea-2-19400657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485714757979:android:913d0e98373b9a080bb27e",
+        "android_client_info": {
+          "package_name": "mx.ude.ittepic.dam_u3_tarea2_19400657"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-sfW31iZR602jrRkwkUJ0XUIxqr7r_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
